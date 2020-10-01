@@ -1,5 +1,4 @@
-# Welcome to the web development repository.
+# Welcome to the web_dev_repo.
 
-If you are new, most of this can get you up to speed to get started on web development and where to look to keep it.
-
-
+In this repo, you will learn what you can do with front-end and backend components to build a website.
+ The content in this repository is for those who want to get into the basics of web development.
